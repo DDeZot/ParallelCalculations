@@ -1,0 +1,4 @@
+﻿  matMulSeq.cpp
+C:\Users\Денис\Downloads\Telegram Desktop\matMulSeq.cpp(50,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Денис\Downloads\Telegram Desktop\matMulSeq.cpp(51,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  parallel_lab_1.vcxproj -> C:\Users\Денис\source\repos\parallel_lab_1\x64\Debug\parallel_lab_1.exe
